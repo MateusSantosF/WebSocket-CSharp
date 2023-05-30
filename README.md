@@ -18,7 +18,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - C#
-- ASP .NET Core 3.1
+- ASP .NET Core 7.0
 
 ## 💻 Projeto
 

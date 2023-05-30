@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
- Webscoket CSharp é o Back-end do meu projeto Whiteboard JS que realiza o processamento dos desenhos entre múltiplos hosts e envia em broadcast os desenhos dos diferentes hosts.
+Websocket CSharp é o Back-end do meu projeto Whiteboard JS que realiza o processamento dos desenhos entre múltiplos hosts e envia em broadcast os desenhos dos diferentes hosts.
 
 ## :memo: Licença
 
